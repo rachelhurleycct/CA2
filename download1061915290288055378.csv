@@ -1,0 +1,494 @@
+FeatureCode,DateCode,Measurement,Units,Value,Construction indices
+K02000001,2011 Feb,Costs,,103.1,New Housing
+K02000001,2011 Feb,Costs,,104.4,All work
+K02000001,2011 Feb,Costs,,105,Other new work
+K02000001,2011 Feb,Costs,,103.7,Repairs and maintenance
+K02000001,2016 Aug,Costs,,110.1,New Housing
+K02000001,2016 Aug,Costs,,109,Other new work
+K02000001,2016 Aug,Costs,,108.7,All work
+K02000001,2016 Aug,Costs,,108.7,Repairs and maintenance
+K02000001,2012 Aug,Costs,,109.6,All work
+K02000001,2004 Q1,Costs,,132.8,Index of hourly wage costs
+K02000001,2012 Aug,Costs,,107.2,New Housing
+K02000001,2012 Aug,Costs,,108.2,Repairs and maintenance
+K02000001,2014 Aug,Costs,,112.4,Other new work
+K02000001,2014 Aug,Costs,,110.7,Repairs and maintenance
+K02000001,2014 Aug,Costs,,110.4,New Housing
+K02000001,2014 Aug,Costs,,110.9,All work
+K02000001,2015 Feb,Costs,,109.9,New Housing
+K02000001,2015 Feb,Costs,,111.2,Other new work
+K02000001,2018 Aug,Costs,,121.4,Repairs and maintenance
+K02000001,2015 Feb,Costs,,110,All work
+K02000001,2017 Feb,Costs,,113.5,New Housing
+K02000001,2017 Feb,Costs,,113.3,Other new work
+K02000001,2015 Feb,Costs,,109.1,Repairs and maintenance
+K02000001,2017 Feb,Costs,,112.6,Repairs and maintenance
+K02000001,2013 Feb,Costs,,110.2,All work
+K02000001,2013 Feb,Costs,,108.4,Repairs and maintenance
+K02000001,2013 Feb,Costs,,107.6,New Housing
+K02000001,2013 Feb,Costs,,112.1,Other new work
+K02000001,2018 Aug,Costs,,121,Other new work
+K02000001,2018 Aug,Costs,,121.3,New Housing
+K02000001,2018 Aug,Costs,,120.2,All work
+K02000001,2014 Mar,Costs,,110,New Housing
+K02000001,2014 Mar,Costs,,113.3,Other new work
+K02000001,2017 Sep,Costs,,114.5,All work
+K02000001,2014 Mar,Costs,,110.6,Repairs and maintenance
+K02000001,2015 Oct,Costs,,107.5,All work
+K02000001,2015 Oct,Costs,,108.3,Other new work
+K02000001,2014 Mar,Costs,,111.5,All work
+K02000001,2015 Oct,Costs,,108.2,New Housing
+K02000001,2013 Oct,Costs,,108.5,New Housing
+K02000001,2013 Oct,Costs,,112,Other new work
+K02000001,2012 Mar,Costs,,112.2,Other new work
+K02000001,2013 Oct,Costs,,110.3,All work
+K02000001,2017 Sep,Costs,,115.1,Other new work
+K02000001,2017 Sep,Costs,,116.2,New Housing
+K02000001,2013 Oct,Costs,,109.5,Repairs and maintenance
+K02000001,2017 Sep,Costs,,115.1,Repairs and maintenance
+K02000001,2017 Oct,Costs,,116.7,New Housing
+K02000001,2018 Mar,Costs,,118.2,All work
+K02000001,2017 Oct,Costs,,115.4,All work
+K02000001,2017 Oct,Costs,,115.7,Repairs and maintenance
+K02000001,2018 Mar,Costs,,119.4,New Housing
+K02000001,2012 Aug,Costs,,110.9,Other new work
+K02000001,2018 Mar,Costs,,118.5,Repairs and maintenance
+K02000001,2018 Mar,Costs,,119.2,Other new work
+K02000001,2016 Mar,Costs,,106.8,All work
+K02000001,2016 Mar,Costs,,108,New Housing
+K02000001,2015 Oct,Costs,,106.9,Repairs and maintenance
+K02000001,2018 Q1,Costs,,174.4,Index of hourly wage costs
+K02000001,2016 Mar,Costs,,106,Repairs and maintenance
+K02000001,2017 Oct,Costs,,116.3,Other new work
+K02000001,2016 Mar,Costs,,107.7,Other new work
+K02000001,2014 Q3,Costs,,151.8,Index of hourly wage costs
+K02000001,2016 Q3,Costs,,164.6,Index of hourly wage costs
+K02000001,2018 Jan,Costs,,117.7,Other new work
+K02000001,2018 Jan,Costs,,116.6,All work
+K02000001,2014 Jun,Costs,,110.5,Repairs and maintenance
+K02000001,2014 Jun,Costs,,112.9,Other new work
+K02000001,2014 Jun,Costs,,111,All work
+K02000001,2014 Jun,Costs,,110.1,New Housing
+K02000001,2016 Jan,Costs,,105.9,Repairs and maintenance
+K02000001,2016 Jan,Costs,,106.7,Other new work
+K02000001,2014 Jan,Costs,,109.5,Repairs and maintenance
+K02000001,2014 Jan,Costs,,108.6,New Housing
+K02000001,2018 Jan,Costs,,117.6,New Housing
+K02000001,2018 Jan,Costs,,116.8,Repairs and maintenance
+K02000001,2016 Jan,Costs,,106.1,All work
+K02000001,2016 Jan,Costs,,107.6,New Housing
+K02000001,2018 Jun,Costs,,120.7,New Housing
+K02000001,2002 Q3,Costs,,111.3,Index of hourly wage costs
+K02000001,2018 Jun,Costs,,120.6,Other new work
+K02000001,2018 Jun,Costs,,119.5,All work
+K02000001,2010 Nov,Costs,,102.3,New Housing
+K02000001,2010 Nov,Costs,,102.5,Repairs and maintenance
+K02000001,2004 Q4,Costs,,120.9,Index of hourly wage costs
+K02000001,2010 Nov,Costs,,101.3,Other new work
+K02000001,2016 Jun,Costs,,107.9,Repairs and maintenance
+K02000001,2016 Jun,Costs,,109.4,Other new work
+K02000001,2018 Q4,Costs,,180.6,Index of hourly wage costs
+K02000001,2016 Jun,Costs,,109.5,New Housing
+K02000001,2000 Q3,Costs,,99.8,Index of hourly wage costs
+K02000001,2018 Jun,Costs,,120.5,Repairs and maintenance
+K02000001,2016 Jun,Costs,,108.4,All work
+K02000001,2013 Jul,Costs,,111.7,Other new work
+K02000001,2019 Feb,Costs,,122.6,All work
+K02000001,2013 Jul,Costs,,108,New Housing
+K02000001,2013 Jul,Costs,,110.1,All work
+K02000001,2019 Feb,Costs,,122.7,Repairs and maintenance
+K02000001,2017 Q4,Costs,,176.9,Index of hourly wage costs
+K02000001,2019 Feb,Costs,,124.3,Other new work
+K02000001,2019 Feb,Costs,,122.7,New Housing
+K02000001,2011 Jul,Costs,,108.7,All work
+K02000001,2011 Jul,Costs,,106,New Housing
+K02000001,2017 Feb,Costs,,112.5,All work
+K02000001,2013 Q4,Costs,,154,Index of hourly wage costs
+K02000001,2015 Q4,Costs,,163.4,Index of hourly wage costs
+K02000001,2013 Jul,Costs,,109,Repairs and maintenance
+K02000001,2011 Jul,Costs,,107.2,Repairs and maintenance
+K02000001,2011 Jul,Costs,,109.8,Other new work
+K02000001,2017 Jul,Costs,,113.9,Other new work
+K02000001,2017 Jul,Costs,,114,Repairs and maintenance
+K02000001,2012 Jan,Costs,,107.2,Repairs and maintenance
+K02000001,2017 Jul,Costs,,115.1,New Housing
+K02000001,2014 Jan,Costs,,110.4,All work
+K02000001,2014 Jan,Costs,,112.4,Other new work
+K02000001,2017 Jul,Costs,,113.4,All work
+K02000001,2001 Q4,Costs,,107.5,Index of hourly wage costs
+K02000001,2015 Jul,Costs,,108.3,Repairs and maintenance
+K02000001,2015 Jul,Costs,,110.6,Other new work
+K02000001,2015 Jul,Costs,,109.5,All work
+K02000001,2015 Jul,Costs,,109.4,New Housing
+K02000001,2012 Jan,Costs,,106,New Housing
+K02000001,2012 Jan,Costs,,110.7,Other new work
+K02000001,2012 Jan,Costs,,109,All work
+K02000001,2014 May,Costs,,113.2,Other new work
+K02000001,2014 May,Costs,,110.8,Repairs and maintenance
+K02000001,2014 May,Costs,,110.3,New Housing
+K02000001,2014 May,Costs,,111.3,All work
+K02000001,2015 Dec,Costs,,106.3,Repairs and maintenance
+K02000001,2015 Dec,Costs,,107.9,New Housing
+K02000001,2015 Dec,Costs,,106.8,All work
+K02000001,2015 Dec,Costs,,107.6,Other new work
+K02000001,2012 May,Costs,,110.3,All work
+K02000001,2013 Dec,Costs,,112.3,Other new work
+K02000001,2012 May,Costs,,111.8,Other new work
+K02000001,2012 May,Costs,,107.9,New Housing
+K02000001,2013 Dec,Costs,,110.4,All work
+K02000001,2016 Q2,Costs,,162.7,Index of hourly wage costs
+K02000001,2013 Dec,Costs,,109.4,Repairs and maintenance
+K02000001,2013 Dec,Costs,,108.5,New Housing
+K02000001,2017 Dec,Costs,,117.5,Other new work
+K02000001,2018 May,Costs,,120,Other new work
+K02000001,2017 Dec,Costs,,118,New Housing
+K02000001,2017 Dec,Costs,,116.5,All work
+K02000001,2018 May,Costs,,120.2,New Housing
+K02000001,2002 Q2,Costs,,112.2,Index of hourly wage costs
+K02000001,2018 May,Costs,,119.6,Repairs and maintenance
+K02000001,2018 May,Costs,,119,All work
+K02000001,2016 May,Costs,,108.9,Other new work
+K02000001,2016 May,Costs,,107.2,Repairs and maintenance
+K02000001,2018 Q3,Costs,,173.7,Index of hourly wage costs
+K02000001,2016 May,Costs,,109,New Housing
+K02000001,2000 Q2,Costs,,98.1,Index of hourly wage costs
+K02000001,2017 Dec,Costs,,117,Repairs and maintenance
+K02000001,2016 May,Costs,,108,All work
+K02000001,2015 Jun,Costs,,109.5,All work
+K02000001,2015 Jun,Costs,,109.7,New Housing
+K02000001,2019 Jan,Costs,,122.2,Repairs and maintenance
+K02000001,2017 Q3,Costs,,169.9,Index of hourly wage costs
+K02000001,2017 Jun,Costs,,115,New Housing
+K02000001,2017 Jun,Costs,,113.9,Repairs and maintenance
+K02000001,2015 Jun,Costs,,108.6,Repairs and maintenance
+K02000001,2015 Jun,Costs,,110.8,Other new work
+K02000001,2013 Jun,Costs,,109.9,All work
+K02000001,2013 Jun,Costs,,111.8,Other new work
+K02000001,2015 Q3,Costs,,157,Index of hourly wage costs
+K02000001,2013 Jun,Costs,,108.2,New Housing
+K02000001,2019 Jan,Costs,,122,New Housing
+K02000001,2019 Jan,Costs,,123,Other new work
+K02000001,2013 Jun,Costs,,109,Repairs and maintenance
+K02000001,2019 Jan,Costs,,121.7,All work
+K02000001,2011 Dec,Costs,,108.7,All work
+K02000001,2011 Dec,Costs,,106.2,New Housing
+K02000001,2019 Jun,Costs,,124.6,Other new work
+K02000001,2005 Q4,Costs,,128.9,Index of hourly wage costs
+K02000001,2014 Q2,Costs,,147,Index of hourly wage costs
+K02000001,2012 May,Costs,,109.1,Repairs and maintenance
+K02000001,2011 Dec,Costs,,109.8,Other new work
+K02000001,2011 Dec,Costs,,107.5,Repairs and maintenance
+K02000001,2001 Q3,Costs,,109.1,Index of hourly wage costs
+K02000001,2003 Q4,Costs,,116.1,Index of hourly wage costs
+K02000001,2017 Jun,Costs,,113.8,Other new work
+K02000001,2017 Jun,Costs,,113.1,All work
+K02000001,2019 Jun,Costs,,123.1,All work
+K02000001,2019 Jun,Costs,,123.7,New Housing
+K02000001,2019 Jun,Costs,,123.3,Repairs and maintenance
+K02000001,2003 Q2,Costs,,115.6,Index of hourly wage costs
+K02000001,2019 Apr,Costs,,123.5,New Housing
+K02000001,2018 Nov,Costs,,122,New Housing
+K02000001,2018 Nov,Costs,,121,All work
+K02000001,2019 Apr,Costs,,123.2,All work
+K02000001,2013 Sep,Costs,,108.1,New Housing
+K02000001,2019 Apr,Costs,,123.4,Repairs and maintenance
+K02000001,2019 Apr,Costs,,124.8,Other new work
+K02000001,2011 Sep,Costs,,109.9,Other new work
+K02000001,2011 Sep,Costs,,106.5,New Housing
+K02000001,2017 Apr,Costs,,114.4,New Housing
+K02000001,2011 Sep,Costs,,108.9,All work
+K02000001,2018 Nov,Costs,,122.1,Other new work
+K02000001,2018 Nov,Costs,,122.5,Repairs and maintenance
+K02000001,2011 Sep,Costs,,107.6,Repairs and maintenance
+K02000001,2001 Q1,Costs,,110.4,Index of hourly wage costs
+K02000001,2015 Sep,Costs,,107.1,Repairs and maintenance
+K02000001,2015 Sep,Costs,,109,Other new work
+K02000001,2011 Oct,Costs,,107.8,Repairs and maintenance
+K02000001,2015 Sep,Costs,,108.5,New Housing
+K02000001,2012 Mar,Costs,,108.8,Repairs and maintenance
+K02000001,2012 Mar,Costs,,110.4,All work
+K02000001,2015 Sep,Costs,,107.9,All work
+K02000001,2012 Mar,Costs,,107.6,New Housing
+K02000001,2013 Sep,Costs,,111.2,Other new work
+K02000001,2005 Q2,Costs,,124.4,Index of hourly wage costs
+K02000001,2013 Sep,Costs,,109.8,All work
+K02000001,2013 Sep,Costs,,109.4,Repairs and maintenance
+K02000001,2011 Oct,Costs,,108.8,All work
+K02000001,2011 Oct,Costs,,109.8,Other new work
+K02000001,2011 Oct,Costs,,106.7,New Housing
+K02000001,2015 Q1,Costs,,156.3,Index of hourly wage costs
+K02000001,2013 Apr,Costs,,110.2,All work
+K02000001,2012 Nov,Costs,,108.2,Repairs and maintenance
+K02000001,2012 Nov,Costs,,111.1,Other new work
+K02000001,2013 Apr,Costs,,112,Other new work
+K02000001,2014 Nov,Costs,,110.1,Repairs and maintenance
+K02000001,2013 Apr,Costs,,109,Repairs and maintenance
+K02000001,2013 Apr,Costs,,108.1,New Housing
+K02000001,2011 Apr,Costs,,105.1,Repairs and maintenance
+K02000001,2011 Apr,Costs,,107,All work
+K02000001,2004 Q3,Costs,,121.8,Index of hourly wage costs
+K02000001,2011 Apr,Costs,,108.2,Other new work
+K02000001,2012 Nov,Costs,,109.6,All work
+K02000001,2012 Nov,Costs,,107.3,New Housing
+K02000001,2011 Apr,Costs,,104.2,New Housing
+K02000001,2016 Nov,Costs,,110.2,Repairs and maintenance
+K02000001,2016 Nov,Costs,,110.7,Other new work
+K02000001,2015 Apr,Costs,,108.8,Repairs and maintenance
+K02000001,2016 Nov,Costs,,110.1,All work
+K02000001,2017 Apr,Costs,,113.2,All work
+K02000001,2017 Apr,Costs,,113.9,Other new work
+K02000001,2016 Nov,Costs,,111.5,New Housing
+K02000001,2017 Apr,Costs,,113.4,Repairs and maintenance
+K02000001,2014 Nov,Costs,,112.2,Other new work
+K02000001,2017 Q1,Costs,,160.8,Index of hourly wage costs
+K02000001,2014 Nov,Costs,,110.6,All work
+K02000001,2014 Nov,Costs,,110.2,New Housing
+K02000001,2015 Apr,Costs,,109.9,New Housing
+K02000001,2015 Apr,Costs,,109.7,All work
+K02000001,2015 Apr,Costs,,111.2,Other new work
+K02000001,2018 Feb,Costs,,119.4,New Housing
+K02000001,2018 Feb,Costs,,118.3,Repairs and maintenance
+K02000001,2016 Feb,Costs,,106.4,All work
+K02000001,2016 Feb,Costs,,106.1,Repairs and maintenance
+K02000001,2014 Q4,Costs,,154.4,Index of hourly wage costs
+K02000001,2012 Jul,Costs,,110.8,Other new work
+K02000001,2018 Feb,Costs,,118.3,Other new work
+K02000001,2018 Feb,Costs,,117.6,All work
+K02000001,2014 Feb,Costs,,109.4,New Housing
+K02000001,2014 Feb,Costs,,113.3,Other new work
+K02000001,2017 Aug,Costs,,114,Other new work
+K02000001,2017 Aug,Costs,,115.3,New Housing
+K02000001,2016 Feb,Costs,,107.1,Other new work
+K02000001,2016 Feb,Costs,,108.2,New Housing
+K02000001,2014 Feb,Costs,,111.3,All work
+K02000001,2014 Feb,Costs,,110,Repairs and maintenance
+K02000001,2011 Jan,Costs,,102.6,Repairs and maintenance
+K02000001,2011 Jan,Costs,,102.2,New Housing
+K02000001,2014 Jul,Costs,,110.5,New Housing
+K02000001,2011 Jan,Costs,,103.1,All work
+K02000001,2016 Jul,Costs,,109.2,Other new work
+K02000001,2016 Jul,Costs,,108,Repairs and maintenance
+K02000001,2011 Jan,Costs,,103.5,Other new work
+K02000001,2016 Jul,Costs,,109.4,New Housing
+K02000001,2012 Jul,Costs,,107.3,New Housing
+K02000001,2016 Q4,Costs,,173.3,Index of hourly wage costs
+K02000001,2012 Jul,Costs,,109.3,All work
+K02000001,2012 Jul,Costs,,108.2,Repairs and maintenance
+K02000001,2014 Jul,Costs,,112.5,Other new work
+K02000001,2014 Jul,Costs,,111.1,All work
+K02000001,2014 Jul,Costs,,110.9,Repairs and maintenance
+K02000001,2018 Oct,Costs,,122.1,Other new work
+K02000001,2003 Q1,Costs,,124.1,Index of hourly wage costs
+K02000001,2018 Oct,Costs,,122,Repairs and maintenance
+K02000001,2018 Oct,Costs,,121.5,New Housing
+K02000001,2019 Mar,Costs,,123.8,New Housing
+K02000001,2019 Mar,Costs,,123.5,Repairs and maintenance
+K02000001,2019 Mar,Costs,,123.2,All work
+K02000001,2019 Mar,Costs,,124.7,Other new work
+K02000001,2017 Mar,Costs,,113,Repairs and maintenance
+K02000001,2011 Aug,Costs,,106.6,New Housing
+K02000001,2017 Mar,Costs,,113.9,New Housing
+K02000001,2017 Mar,Costs,,113.7,Other new work
+K02000001,2011 Aug,Costs,,110,Other new work
+K02000001,2018 Oct,Costs,,120.9,All work
+K02000001,2011 Aug,Costs,,107.9,Repairs and maintenance
+K02000001,2011 Aug,Costs,,109,All work
+K02000001,2012 Feb,Costs,,106.4,New Housing
+K02000001,2012 Feb,Costs,,109.3,All work
+K02000001,2015 Aug,Costs,,109,New Housing
+K02000001,2015 Aug,Costs,,108.7,All work
+K02000001,2017 Aug,Costs,,113.7,All work
+K02000001,2017 Aug,Costs,,114.4,Repairs and maintenance
+K02000001,2012 Feb,Costs,,107.9,Repairs and maintenance
+K02000001,2012 Feb,Costs,,111.1,Other new work
+K02000001,2013 Aug,Costs,,109.4,Repairs and maintenance
+K02000001,2013 Aug,Costs,,110.2,All work
+K02000001,2013 Aug,Costs,,111.6,Other new work
+K02000001,2013 Aug,Costs,,108.2,New Housing
+K02000001,2015 Aug,Costs,,109.5,Other new work
+K02000001,2015 Aug,Costs,,107.8,Repairs and maintenance
+K02000001,2005 Q1,Costs,,131.5,Index of hourly wage costs
+K02000001,2012 Q4,Costs,,152.4,Index of hourly wage costs
+K02000001,2006 Q3,Costs,,133.3,Index of hourly wage costs
+K02000001,2012 Jun,Costs,,109.9,All work
+K02000001,2012 Jun,Costs,,108.5,Repairs and maintenance
+K02000001,2007 Q4,Costs,,143.5,Index of hourly wage costs
+K02000001,2008 Q3,Costs,,144.5,Index of hourly wage costs
+K02000001,2009 Q4,Costs,,152,Index of hourly wage costs
+K02000001,2012 Q3,Costs,,153.3,Index of hourly wage costs
+K02000001,2007 Q1,Costs,,143.5,Index of hourly wage costs
+K02000001,2008 Q2,Costs,,143.1,Index of hourly wage costs
+K02000001,2006 Q4,Costs,,133.3,Index of hourly wage costs
+K02000001,2011 Q4,Costs,,157.6,Index of hourly wage costs
+K02000001,2012 Jun,Costs,,111.6,Other new work
+K02000001,2012 Jun,Costs,,107.3,New Housing
+K02000001,2010 Q4,Costs,,154.1,Index of hourly wage costs
+K02000001,2007 Q2,Costs,,136.5,Index of hourly wage costs
+K02000001,2009 Q2,Costs,,148.2,Index of hourly wage costs
+K02000001,2011 Q2,Costs,,150.6,Index of hourly wage costs
+K02000001,2009 Q1,Costs,,154.5,Index of hourly wage costs
+K02000001,2010 Q3,Costs,,148.5,Index of hourly wage costs
+K02000001,2010 Q1,Costs,,155.4,Index of hourly wage costs
+K02000001,2011 Q3,Costs,,148.7,Index of hourly wage costs
+K02000001,2012 Q2,Costs,,155.5,Index of hourly wage costs
+K02000001,2009 Q3,Costs,,147.7,Index of hourly wage costs
+K02000001,2006 Q1,Costs,,135.4,Index of hourly wage costs
+K02000001,2007 Q3,Costs,,145.4,Index of hourly wage costs
+K02000001,2012 Q1,Costs,,151.6,Index of hourly wage costs
+K02000001,2011 Q1,Costs,,156.1,Index of hourly wage costs
+K02000001,2008 Q1,Costs,,153.3,Index of hourly wage costs
+K02000001,2006 Q2,Costs,,134.3,Index of hourly wage costs
+K02000001,2010 Q2,Costs,,147.9,Index of hourly wage costs
+K02000001,2018 Jul,Costs,,121.1,Repairs and maintenance
+K02000001,2002 Q4,Costs,,107.8,Index of hourly wage costs
+K02000001,2018 Jul,Costs,,119.9,All work
+K02000001,2018 Jul,Costs,,120.7,Other new work
+K02000001,2015 Jan,Costs,,110.2,All work
+K02000001,2015 Jan,Costs,,109.5,Repairs and maintenance
+K02000001,2015 Jan,Costs,,109.8,New Housing
+K02000001,2015 Jan,Costs,,111.5,Other new work
+K02000001,2013 Jan,Costs,,107.1,New Housing
+K02000001,2013 Jan,Costs,,107.8,Repairs and maintenance
+K02000001,2016 Jul,Costs,,108.5,All work
+K02000001,2000 Q4,Costs,,99.8,Index of hourly wage costs
+K02000001,2013 Jan,Costs,,112.1,Other new work
+K02000001,2018 Jul,Costs,,121.2,New Housing
+K02000001,2013 Jan,Costs,,110,All work
+K02000001,2011 Jun,Costs,,105.7,New Housing
+K02000001,2011 Jun,Costs,,106.6,Repairs and maintenance
+K02000001,2017 Jan,Costs,,111.3,Repairs and maintenance
+K02000001,2013 Q3,Costs,,150.3,Index of hourly wage costs
+K02000001,2013 Q1,Costs,,151,Index of hourly wage costs
+K02000001,2008 Q4,Costs,,147.8,Index of hourly wage costs
+K02000001,2011 Jun,Costs,,109.9,Other new work
+K02000001,2011 Jun,Costs,,108.6,All work
+K02000001,2010 Dec,Costs,,101.3,Other new work
+K02000001,2010 Dec,Costs,,102.2,Repairs and maintenance
+K02000001,2010 Dec,Costs,,102,New Housing
+K02000001,2010 Dec,Costs,,101.4,All work
+K02000001,2017 Jan,Costs,,112.3,New Housing
+K02000001,2017 Jan,Costs,,111.7,All work
+K02000001,2017 Jan,Costs,,112.6,Other new work
+K02000001,2019 May,Costs,,122.7,All work
+K02000001,2005 Q3,Costs,,124.2,Index of hourly wage costs
+K02000001,2019 May,Costs,,123.2,Repairs and maintenance
+K02000001,2019 May,Costs,,124.1,Other new work
+K02000001,2011 Nov,Costs,,109.5,Other new work
+K02000001,2011 Nov,Costs,,107.6,Repairs and maintenance
+K02000001,2011 Nov,Costs,,106.5,New Housing
+K02000001,2011 Nov,Costs,,108.6,All work
+K02000001,2018 Dec,Costs,,122.1,New Housing
+K02000001,2018 Dec,Costs,,122.5,Repairs and maintenance
+K02000001,2017 May,Costs,,114.9,New Housing
+K02000001,2001 Q2,Costs,,106.5,Index of hourly wage costs
+K02000001,2003 Q3,Costs,,116.7,Index of hourly wage costs
+K02000001,2019 May,Costs,,123.1,New Housing
+K02000001,2018 Dec,Costs,,121.9,Other new work
+K02000001,2018 Dec,Costs,,121.1,All work
+K02000001,2016 Q1,Costs,,160.1,Index of hourly wage costs
+K02000001,2014 Apr,Costs,,111,All work
+K02000001,2013 Nov,Costs,,109.4,Repairs and maintenance
+K02000001,2013 Nov,Costs,,110.3,All work
+K02000001,2014 Apr,Costs,,110.7,Repairs and maintenance
+K02000001,2015 Nov,Costs,,108.3,New Housing
+K02000001,2014 Apr,Costs,,110.1,New Housing
+K02000001,2014 Apr,Costs,,112.7,Other new work
+K02000001,2012 Apr,Costs,,112.4,Other new work
+K02000001,2012 Apr,Costs,,107.9,New Housing
+K02000001,2014 Q1,Costs,,154.1,Index of hourly wage costs
+K02000001,2012 Apr,Costs,,110.7,All work
+K02000001,2013 Nov,Costs,,112.2,Other new work
+K02000001,2013 Nov,Costs,,108.5,New Housing
+K02000001,2012 Apr,Costs,,109.2,Repairs and maintenance
+K02000001,2015 Q2,Costs,,155.3,Index of hourly wage costs
+K02000001,2013 May,Costs,,108.5,New Housing
+K02000001,2012 Dec,Costs,,106.8,New Housing
+K02000001,2012 Dec,Costs,,109.3,All work
+K02000001,2013 May,Costs,,111.5,Other new work
+K02000001,2014 Dec,Costs,,110.3,All work
+K02000001,2013 May,Costs,,110.1,All work
+K02000001,2013 May,Costs,,109.3,Repairs and maintenance
+K02000001,2011 May,Costs,,104.8,New Housing
+K02000001,2011 May,Costs,,107.7,All work
+K02000001,2010 Nov,Costs,,101.7,All work
+K02000001,2013 Q2,Costs,,151.9,Index of hourly wage costs
+K02000001,2012 Dec,Costs,,107.7,Repairs and maintenance
+K02000001,2012 Dec,Costs,,111.1,Other new work
+K02000001,2011 May,Costs,,109.2,Other new work
+K02000001,2011 May,Costs,,105.8,Repairs and maintenance
+K02000001,2016 Dec,Costs,,110.2,Repairs and maintenance
+K02000001,2016 Dec,Costs,,111.4,Other new work
+K02000001,2015 May,Costs,,111.1,Other new work
+K02000001,2016 Dec,Costs,,110.5,All work
+K02000001,2017 May,Costs,,113.8,Other new work
+K02000001,2017 May,Costs,,113.3,All work
+K02000001,2016 Dec,Costs,,111.4,New Housing
+K02000001,2017 May,Costs,,113.9,Repairs and maintenance
+K02000001,2014 Dec,Costs,,111.6,Other new work
+K02000001,2017 Q2,Costs,,159.5,Index of hourly wage costs
+K02000001,2014 Dec,Costs,,109.9,Repairs and maintenance
+K02000001,2014 Dec,Costs,,110,New Housing
+K02000001,2015 May,Costs,,109,Repairs and maintenance
+K02000001,2015 May,Costs,,110.2,New Housing
+K02000001,2015 May,Costs,,109.9,All work
+K02000001,2013 Mar,Costs,,108.8,Repairs and maintenance
+K02000001,2013 Mar,Costs,,112.8,Other new work
+K02000001,2016 Sep,Costs,,110.7,New Housing
+K02000001,2013 Mar,Costs,,110.8,All work
+K02000001,2014 Oct,Costs,,110.3,Repairs and maintenance
+K02000001,2014 Oct,Costs,,110.8,All work
+K02000001,2013 Mar,Costs,,107.9,New Housing
+K02000001,2014 Oct,Costs,,110.1,New Housing
+K02000001,2012 Oct,Costs,,107.2,New Housing
+K02000001,2012 Oct,Costs,,111.5,Other new work
+K02000001,2011 Mar,Costs,,105.6,All work
+K02000001,2012 Oct,Costs,,109.9,All work
+K02000001,2016 Sep,Costs,,109.4,Other new work
+K02000001,2016 Sep,Costs,,109.1,All work
+K02000001,2012 Oct,Costs,,108.2,Repairs and maintenance
+K02000001,2016 Sep,Costs,,109.4,Repairs and maintenance
+K02000001,2016 Oct,Costs,,109.1,All work
+K02000001,2016 Oct,Costs,,109.3,Repairs and maintenance
+K02000001,2015 Mar,Costs,,109,Repairs and maintenance
+K02000001,2015 Mar,Costs,,111.7,Other new work
+K02000001,2019 Q1,Costs,,175.5,Index of hourly wage costs
+K02000001,2017 Mar,Costs,,112.8,All work
+K02000001,2016 Oct,Costs,,110.6,New Housing
+K02000001,2016 Oct,Costs,,109.5,Other new work
+K02000001,2018 Sep,Costs,,120.9,All work
+K02000001,2018 Sep,Costs,,121.9,New Housing
+K02000001,2014 Oct,Costs,,112.4,Other new work
+K02000001,2018 Sep,Costs,,122,Repairs and maintenance
+K02000001,2015 Mar,Costs,,110.3,All work
+K02000001,2015 Mar,Costs,,109.9,New Housing
+K02000001,2018 Sep,Costs,,121.9,Other new work
+K02000001,2017 Nov,Costs,,117.1,Other new work
+K02000001,2017 Nov,Costs,,115.8,All work
+K02000001,2016 Apr,Costs,,107.8,Other new work
+K02000001,2000 Q1,Costs,,102.4,Index of hourly wage costs
+K02000001,2018 Apr,Costs,,119.8,New Housing
+K02000001,2018 Apr,Costs,,119.3,Other new work
+K02000001,2017 Nov,Costs,,116.2,Repairs and maintenance
+K02000001,2017 Nov,Costs,,117,New Housing
+K02000001,2015 Nov,Costs,,107.5,Other new work
+K02000001,2018 Q2,Costs,,172.6,Index of hourly wage costs
+K02000001,2015 Nov,Costs,,106.9,Repairs and maintenance
+K02000001,2015 Nov,Costs,,107,All work
+K02000001,2016 Apr,Costs,,107,All work
+K02000001,2016 Apr,Costs,,108.5,New Housing
+K02000001,2016 Apr,Costs,,106.6,Repairs and maintenance
+K02000001,2014 Sep,Costs,,112.4,Other new work
+K02000001,2014 Sep,Costs,,110.7,Repairs and maintenance
+K02000001,2004 Q2,Costs,,120.9,Index of hourly wage costs
+K02000001,2014 Sep,Costs,,110.3,New Housing
+K02000001,2011 Mar,Costs,,103.7,New Housing
+K02000001,2011 Mar,Costs,,106.5,Other new work
+K02000001,2014 Sep,Costs,,110.8,All work
+K02000001,2011 Mar,Costs,,104.4,Repairs and maintenance
+K02000001,2012 Sep,Costs,,108.2,Repairs and maintenance
+K02000001,2012 Sep,Costs,,111.5,Other new work
+K02000001,2018 Apr,Costs,,119.1,Repairs and maintenance
+K02000001,2018 Apr,Costs,,118.4,All work
+K02000001,2012 Sep,Costs,,109.8,All work
+K02000001,2002 Q1,Costs,,117.1,Index of hourly wage costs
+K02000001,2012 Sep,Costs,,107.1,New Housing
